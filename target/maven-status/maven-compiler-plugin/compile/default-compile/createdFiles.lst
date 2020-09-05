@@ -1,0 +1,11 @@
+msaShop/MyPage.class
+msaShop/MyPageViewHandler.class
+msaShop/config/kafka/KafkaProcessor.class
+msaShop/DeliveryCanceled.class
+msaShop/OrderMaked.class
+msaShop/AbstractEvent$1.class
+msaShop/PolicyHandler.class
+msaShop/Shipped.class
+msaShop/MyPageRepository.class
+msaShop/AbstractEvent.class
+msaShop/CustomercenterApplication.class
